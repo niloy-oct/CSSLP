@@ -3,7 +3,7 @@
   "summary": {
     "title": "HPL Application Model",
     "owner": "HPL",
-    "description": "Client side solution \nWeb app\nMessaging MQ\nKafka Cluster\nProcess Trilion  of  Data using Data pipeline daily",
+    "description": "Client side solution \nWeb app\nMessaging Queue\nKafka Cluster\nProcess 5TB Data using Data pipeline daily",
     "id": 0
   },
   "detail": {
