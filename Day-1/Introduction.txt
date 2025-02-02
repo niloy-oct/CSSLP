@@ -5,3 +5,8 @@ Topic to covered:
 - Code
 - Deploy
 - Best Practice
+
+
+Threat Modeling with OWASP Threat Model Dragon
+
+VSC
