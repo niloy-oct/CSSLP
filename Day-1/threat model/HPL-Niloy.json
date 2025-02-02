@@ -1,0 +1,26 @@
+{
+  "version": "2.3.0",
+  "summary": {
+    "title": "HPL Application Model",
+    "owner": "HPL",
+    "description": "Client side solution \nWeb app\nMessaging MQ\nKafka Cluster\nProcess Trilion  of  Data using Data pipeline daily",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Level-1 Example",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.3.0",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Niloy",
+    "threatTop": 0
+  }
+}

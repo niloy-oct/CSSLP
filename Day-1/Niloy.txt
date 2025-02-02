@@ -20,3 +20,19 @@ Fronted, Backend, Db, Auth, APIs
 - Rate Limiting and firewalls
 - Data Protection
 - Logging and Monitoring
+
+Tools: Threat Dragon v2.3.0
+
+## Web Application
+
+- App→ CS→ Browser
+- App→ SS → Web App
+- Buffer → Msg Queue
+- Storage → DB
+- Storage → Config
+
+## Attack Surface Analysis
+
+- Entry Points: APIs, User Interface, Network Ports
+- Trust Boundaries: Internal/External Systems
+- Data Flow: Authentication, Processing, Storage
