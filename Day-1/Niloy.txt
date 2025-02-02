@@ -1,0 +1,22 @@
+# Introduction to Threaten Modeling
+
+**Applications Architecture Overview**
+
+Fronted, Backend, Db, Auth, APIs
+
+**STRIDE Model(Identifying Threats)**
+
+- Spoofing
+- Replication
+- Denial of Service
+- Tampering
+- Information Disclosure
+- Elevation of Privilege
+
+**Risk Mitigation Strategies** 
+
+- Authentication, Authorization
+- Input validation
+- Rate Limiting and firewalls
+- Data Protection
+- Logging and Monitoring
